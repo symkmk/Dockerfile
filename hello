@@ -1,0 +1,3 @@
+FROM centos
+LABEL user="symkmk123" email="1062646014@qq.com" description="hello demo"
+CMD echo "hello docker by sy"
